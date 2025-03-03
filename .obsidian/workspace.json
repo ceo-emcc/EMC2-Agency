@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emc2 agency.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emc2 agency"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "4315373e268a1eb0",
@@ -170,6 +170,7 @@
   },
   "active": "3cdfbad97c996912",
   "lastOpenFiles": [
-    "emc2 agency.md"
+    "emc2 agency.md",
+    "README.md"
   ]
 }
